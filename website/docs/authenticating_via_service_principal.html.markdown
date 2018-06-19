@@ -48,4 +48,4 @@ Secondly, search for and select the name of the Application created in Azure Act
 
 ## Configuring your Service Principal
 
-Service Principals can be configured in Terraform in one of two ways, either as Environment Variables or in the Provider block. Please see [this section](index.html#argument-reference) for an example of which fields are available and can be specified either through Environment Variables - or in the Provider Block.
+Service Principals can be configured in Terraform in one of two ways, either as Environment Variables or in the Provider block. Please see the Argument Reference section of the index for an example of which fields are available and can be specified either through Environment Variables - or in the Provider Block.
